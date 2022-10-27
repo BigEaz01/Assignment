@@ -1,19 +1,24 @@
 
-# week 3 branch 
+# Week 3 zuri task 
 
- This branch has two folders for 
- 
-
+week 3 task by Akinola isreal "bigeaz"
 
 
+## Documentation
 
-## Features
-
-- card design with flex boc
-- grid layout
+[replit](https://replit.com/@BigEaz01/registration#registration/index.h)
 
 
-## Authors
+## FAQ
 
-- [@BigEaz](https://github.com/BigEaz01)
+#### what is the task
+
+a portfolio 
+
+#### what is the second task
+
+a registration form
+
+## Color Reference
+
 
